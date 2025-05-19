@@ -1,0 +1,4 @@
+flask
+gunicorn
+ccxt==1.91.20
+Telethon==1.24.0
